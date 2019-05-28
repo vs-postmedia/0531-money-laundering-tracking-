@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-template/static/css/main.878518b8.chunk.css",
+    "main.js": "/react-template/static/js/main.d3bad2d5.chunk.js",
+    "main.js.map": "/react-template/static/js/main.d3bad2d5.chunk.js.map",
+    "runtime~main.js": "/react-template/static/js/runtime~main.0455cb28.js",
+    "runtime~main.js.map": "/react-template/static/js/runtime~main.0455cb28.js.map",
+    "static/css/2.d4b275d9.chunk.css": "/react-template/static/css/2.d4b275d9.chunk.css",
+    "static/js/2.db5e81d3.chunk.js": "/react-template/static/js/2.db5e81d3.chunk.js",
+    "static/js/2.db5e81d3.chunk.js.map": "/react-template/static/js/2.db5e81d3.chunk.js.map",
+    "index.html": "/react-template/index.html",
+    "precache-manifest.2b3ab2cd05da7861262fe6b99035f857.js": "/react-template/precache-manifest.2b3ab2cd05da7861262fe6b99035f857.js",
+    "service-worker.js": "/react-template/service-worker.js",
+    "static/css/2.d4b275d9.chunk.css.map": "/react-template/static/css/2.d4b275d9.chunk.css.map",
+    "static/css/main.878518b8.chunk.css.map": "/react-template/static/css/main.878518b8.chunk.css.map",
+    "static/media/index.css": "/react-template/static/media/Shift-BoldItalic.5c3edbfd.otf"
+  }
+}
