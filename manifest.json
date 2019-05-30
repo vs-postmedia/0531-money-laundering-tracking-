@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Money Laundering Tracker",
+  "name": "Database tracking money laundering recommendations",
   "icons": [
     {
       "src": "favicon.ico",
