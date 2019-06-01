@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/0531-money-laundering-tracking/precache-manifest.b5ed5298e973036e41e3de8a9cd7c75a.js"
+  "/0531-money-laundering-tracking/precache-manifest.69b930a6d4db57a7973022f5247c3cda.js"
 );
 
 self.addEventListener('message', (event) => {

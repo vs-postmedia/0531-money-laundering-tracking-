@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/0531-money-laundering-tracking/static/css/main.7948fdf4.chunk.css",
-    "main.js": "/0531-money-laundering-tracking/static/js/main.d4a6adf5.chunk.js",
-    "main.js.map": "/0531-money-laundering-tracking/static/js/main.d4a6adf5.chunk.js.map",
+    "main.css": "/0531-money-laundering-tracking/static/css/main.eb0d921f.chunk.css",
+    "main.js": "/0531-money-laundering-tracking/static/js/main.10346b61.chunk.js",
+    "main.js.map": "/0531-money-laundering-tracking/static/js/main.10346b61.chunk.js.map",
     "runtime~main.js": "/0531-money-laundering-tracking/static/js/runtime~main.16771370.js",
     "runtime~main.js.map": "/0531-money-laundering-tracking/static/js/runtime~main.16771370.js.map",
     "static/css/2.d4b275d9.chunk.css": "/0531-money-laundering-tracking/static/css/2.d4b275d9.chunk.css",
-    "static/js/2.e8a98350.chunk.js": "/0531-money-laundering-tracking/static/js/2.e8a98350.chunk.js",
-    "static/js/2.e8a98350.chunk.js.map": "/0531-money-laundering-tracking/static/js/2.e8a98350.chunk.js.map",
+    "static/js/2.95bc798d.chunk.js": "/0531-money-laundering-tracking/static/js/2.95bc798d.chunk.js",
+    "static/js/2.95bc798d.chunk.js.map": "/0531-money-laundering-tracking/static/js/2.95bc798d.chunk.js.map",
     "index.html": "/0531-money-laundering-tracking/index.html",
-    "precache-manifest.b5ed5298e973036e41e3de8a9cd7c75a.js": "/0531-money-laundering-tracking/precache-manifest.b5ed5298e973036e41e3de8a9cd7c75a.js",
+    "precache-manifest.69b930a6d4db57a7973022f5247c3cda.js": "/0531-money-laundering-tracking/precache-manifest.69b930a6d4db57a7973022f5247c3cda.js",
     "service-worker.js": "/0531-money-laundering-tracking/service-worker.js",
     "static/css/2.d4b275d9.chunk.css.map": "/0531-money-laundering-tracking/static/css/2.d4b275d9.chunk.css.map",
-    "static/css/main.7948fdf4.chunk.css.map": "/0531-money-laundering-tracking/static/css/main.7948fdf4.chunk.css.map",
+    "static/css/main.eb0d921f.chunk.css.map": "/0531-money-laundering-tracking/static/css/main.eb0d921f.chunk.css.map",
     "static/media/index.css": "/0531-money-laundering-tracking/static/media/Shift-BoldItalic.5c3edbfd.otf"
   }
 }
