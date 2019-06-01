@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "38b29f407e7e2593b88fef47736de3e4",
+    "revision": "10423bfdeb4eef9d926b768742765b03",
     "url": "/0531-money-laundering-tracking/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/0531-money-laundering-tracking/static/css/2.d4b275d9.chunk.css"
   },
   {
-    "revision": "80b1b13f989455fb04e9",
-    "url": "/0531-money-laundering-tracking/static/css/main.eb0d921f.chunk.css"
+    "revision": "c3e845cdf50758a1496b",
+    "url": "/0531-money-laundering-tracking/static/css/main.86a7c50a.chunk.css"
   },
   {
     "revision": "3e2ce77ffc7cfb103fdc",
     "url": "/0531-money-laundering-tracking/static/js/2.95bc798d.chunk.js"
   },
   {
-    "revision": "80b1b13f989455fb04e9",
-    "url": "/0531-money-laundering-tracking/static/js/main.10346b61.chunk.js"
+    "revision": "c3e845cdf50758a1496b",
+    "url": "/0531-money-laundering-tracking/static/js/main.47e140b4.chunk.js"
   },
   {
     "revision": "c396ecde9bbf6224907f",

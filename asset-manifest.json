@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/0531-money-laundering-tracking/static/css/main.eb0d921f.chunk.css",
-    "main.js": "/0531-money-laundering-tracking/static/js/main.10346b61.chunk.js",
-    "main.js.map": "/0531-money-laundering-tracking/static/js/main.10346b61.chunk.js.map",
+    "main.css": "/0531-money-laundering-tracking/static/css/main.86a7c50a.chunk.css",
+    "main.js": "/0531-money-laundering-tracking/static/js/main.47e140b4.chunk.js",
+    "main.js.map": "/0531-money-laundering-tracking/static/js/main.47e140b4.chunk.js.map",
     "runtime~main.js": "/0531-money-laundering-tracking/static/js/runtime~main.16771370.js",
     "runtime~main.js.map": "/0531-money-laundering-tracking/static/js/runtime~main.16771370.js.map",
     "static/css/2.d4b275d9.chunk.css": "/0531-money-laundering-tracking/static/css/2.d4b275d9.chunk.css",
     "static/js/2.95bc798d.chunk.js": "/0531-money-laundering-tracking/static/js/2.95bc798d.chunk.js",
     "static/js/2.95bc798d.chunk.js.map": "/0531-money-laundering-tracking/static/js/2.95bc798d.chunk.js.map",
     "index.html": "/0531-money-laundering-tracking/index.html",
-    "precache-manifest.69b930a6d4db57a7973022f5247c3cda.js": "/0531-money-laundering-tracking/precache-manifest.69b930a6d4db57a7973022f5247c3cda.js",
+    "precache-manifest.6f713ec3266987ed8caa9eda845c0efb.js": "/0531-money-laundering-tracking/precache-manifest.6f713ec3266987ed8caa9eda845c0efb.js",
     "service-worker.js": "/0531-money-laundering-tracking/service-worker.js",
     "static/css/2.d4b275d9.chunk.css.map": "/0531-money-laundering-tracking/static/css/2.d4b275d9.chunk.css.map",
-    "static/css/main.eb0d921f.chunk.css.map": "/0531-money-laundering-tracking/static/css/main.eb0d921f.chunk.css.map",
+    "static/css/main.86a7c50a.chunk.css.map": "/0531-money-laundering-tracking/static/css/main.86a7c50a.chunk.css.map",
     "static/media/index.css": "/0531-money-laundering-tracking/static/media/Shift-BoldItalic.5c3edbfd.otf"
   }
 }
