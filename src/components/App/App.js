@@ -2,7 +2,7 @@ import React from 'react';
 import Layout from '../Layout/Layout';
 import './App.css';
 
-const googleSheetURL = 'https://docs.google.com/spreadsheets/d/12Py1FVF-tCdkhbNM9pYKayKR1lHQStNAF78soVVy10o/edit?usp=sharing';
+const googleSheetURL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTWH_GXXqIt6bzwTXaj-LMFFgOJOR8Mqj3KuZGjDpHIeIAqKNbPsthmZVTwxE9hvH0txlZyljFcCi3s/pub?gid=1701318135&single=true&output=csv';
 
 function App() {
 	return (
