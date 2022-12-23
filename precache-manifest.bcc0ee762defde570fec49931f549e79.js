@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef812a99527bfb4452ee9143efa90774",
+    "revision": "97d1545d4270f2136d132ef49c0a599e",
     "url": "/0531-money-laundering-tracking/index.html"
   },
   {
-    "revision": "f338c085f377787018a0",
-    "url": "/0531-money-laundering-tracking/static/css/2.d5bec64a.chunk.css"
+    "revision": "0d55b17377ced9bdab68",
+    "url": "/0531-money-laundering-tracking/static/css/2.90a1d810.chunk.css"
   },
   {
-    "revision": "4e3f6da47f31ba6402de",
+    "revision": "a25be59cd297aaaf2e52",
     "url": "/0531-money-laundering-tracking/static/css/main.89f147a7.chunk.css"
   },
   {
-    "revision": "f338c085f377787018a0",
-    "url": "/0531-money-laundering-tracking/static/js/2.6b90dd8c.chunk.js"
+    "revision": "0d55b17377ced9bdab68",
+    "url": "/0531-money-laundering-tracking/static/js/2.feff8f4d.chunk.js"
   },
   {
-    "revision": "4e3f6da47f31ba6402de",
-    "url": "/0531-money-laundering-tracking/static/js/main.a9a30959.chunk.js"
+    "revision": "a25be59cd297aaaf2e52",
+    "url": "/0531-money-laundering-tracking/static/js/main.a49339a2.chunk.js"
   },
   {
     "revision": "c396ecde9bbf6224907f",
